@@ -1,0 +1,9 @@
+{
+    id: "squidSmpPanoramaSpawn",
+    version: 13,
+    capabilities: ["FileFilter"],
+    conf: {
+        barebones: false,
+        shaders: true
+    }
+}

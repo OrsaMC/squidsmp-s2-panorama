@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Replaces the panorama behind the main menu with SquidSMP Season 2's spawn.",
+    "min_format": 65,
+    "max_format": 75
+  }
+}

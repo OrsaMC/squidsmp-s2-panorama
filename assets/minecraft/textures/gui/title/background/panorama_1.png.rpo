@@ -1,0 +1,8 @@
+{
+    condition: "!barebones & shaders",
+    fallbacks: [
+        "assets/minecraft/textures/gui/title/background/vn/panorama_1.png",
+        "assets/minecraft/textures/gui/title/background/bb/panorama_1.png",
+        "assets/minecraft/textures/gui/title/background/bb_s/panorama_1.png"
+    ]
+}
